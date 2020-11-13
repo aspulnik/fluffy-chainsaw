@@ -1,0 +1,23 @@
+{
+  "name": "@doosan/funfact",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Artur Spulnik <aspulnik@tbscg.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/funfact.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@doosan/button": "^1.0.0",
+    "axios": "^0.21.0"
+  }
+}
