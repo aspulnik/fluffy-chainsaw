@@ -1,0 +1,23 @@
+### Node.js related items
+node_modules
+
+### IDE specific items
+/.settings
+/*/.settings
+.aws/
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+
+### Local configuration files
+.swaggerhub
+
+### Build process generated items
+collection.json
+.scannerwork/
+jest.json
+target
+coverage
+junit.xml
