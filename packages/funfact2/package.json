@@ -1,6 +1,6 @@
 {
   "name": "@doosan/funfact2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Artur Spulnik <aspulnik@tbscg.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@doosan/button": "^3.0.1",
+    "@doosan/button": "^3.0.2",
     "axios": "^0.21.0"
   }
 }
