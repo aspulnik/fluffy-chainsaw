@@ -3,5 +3,5 @@
 module.exports = button;
 
 function button() {
-    return "I'm version 1.0.0"
+    return "I'm version 2.0.0"
 }
